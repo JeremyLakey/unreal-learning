@@ -1,0 +1,11 @@
+unreal engine
+
+hotkeys
+w, e, r: move, rotate, scale
+g: game view
+down right: rotate/move camera
+ctrl + space: Open folder drawer
+ctrl + d: duplicate object or alt + drag
+ctrl + b on select object: Open item in content browser
+h: hide and h + ctrl to unhide
+f: snap to select object
